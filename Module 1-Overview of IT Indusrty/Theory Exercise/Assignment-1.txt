@@ -1,0 +1,22 @@
+1)  what is program?
+-->
+
+
+2)Write a simple "Hello World" program in two different programming languages of your choice. Compare the structure and syntax.Feature	
+-->  						C									C++
+Header for I/O				#include <stdio.h>				#include <iostream>
+Print Statement				printf("text\n")				std::cout << "text" << std::endl;
+Output Style				Function-style					Object-oriented stream-based
+Language Style				Procedural						Supports Object-Oriented Programming
+Namespace Usage				Not applicable					Uses std:: namespace
+
+3)Explain in your own words what a program is and how it functions.
+-->
+ A program is a set of instructions written in a programming language that a computer can understand and execute to perform a specific task or solve a problem.
+
+ 
+ ->How a Program Functions:
+ 1)Writing the Code – A programmer writes instructions (code) in a programming language like Python, Java, or C++
+ 2)Compiling - A compiler (for languages like C++) translates the entire program into machine code (binary) before execution.
+ 3)Execution – The CPU (Central Processing Unit) reads the machine code and performs the operations:
+ 4)Output – The program produces results, such as displaying graphics, saving files, or controlling hardware.
